@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: How about learn more about me?
 ---
 
 My name is Yu Rong. I have the following qualities:
