@@ -20,7 +20,7 @@ tags: [project]
 
 ## Result
 
-![output.gif](https://github.com/SekiroRong/Carla_dataset_generator/blob/main/output.gif)
+![output.gif](/assets/img/output.gif)
 
 ## Requirement
 
