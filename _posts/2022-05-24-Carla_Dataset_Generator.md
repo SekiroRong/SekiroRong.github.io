@@ -28,7 +28,7 @@ tags: [project]
 pip install  requirements.txt
 ```
 
-The project is based on **carla-0.9.12**, which can be download here: [CARLA 0.9.12 Release | CARLA Simulator](http://carla.org/2021/08/02/release-0.9.12/)
+The project is based on **carla-0.9.12**, which can be download here: [CARLA 0.9.12 Release - CARLA Simulator](http://carla.org/2021/08/02/release-0.9.12/)
 
 And this version of carla seems require **python 3.7**.
 
