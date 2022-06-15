@@ -31,6 +31,11 @@ What else do you need?
 
 * Frameworks & Tools
 
+### All my links📡📡📡
+
+* 📧Email: sekirorong@gmail.com
+* 🔬GitHub: [https://github.com/SekiroRong](https://github.com/SekiroRong)
+
 ### My story
 
 To be honest, I'm having some trouble remembering right now.
