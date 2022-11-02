@@ -2,9 +2,9 @@
 layout: post
 title: KITTI_Visualize_tool
 subtitle: A convenient tool to visualize KITTI dataset.
-cover-img: /assets/img/kvt.png
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/kvt.png
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/kvt.png
+share-img: /assets/img/path.jpg
 tags: [project]
 comments: true
 ---
