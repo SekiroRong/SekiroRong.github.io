@@ -2,7 +2,7 @@
 layout: post
 title: KITTI_Visualize_tool
 subtitle: A convenient tool to visualize KITTI dataset.
-cover-img: /assets/img/yolop.png
+cover-img: /assets/img/kvt.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [project]
@@ -23,7 +23,7 @@ GitHub Link:[A convenient tool to visualize KITTI dataset.](https://github.com/S
 
 ## Result
 
-![output.gif](asset/kitti_visualize.gif)
+![output.gif](/assets/img/kvt.gif)
 
 ## Requirement
 
