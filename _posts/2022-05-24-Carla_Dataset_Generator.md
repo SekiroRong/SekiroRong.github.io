@@ -2,7 +2,7 @@
 layout: post
 title: Carla Dataset Generator
 subtitle: An automatic dataset generator for 2D/3D detection and segment mission based on Carla Simulator.
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/Carla.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [project]
